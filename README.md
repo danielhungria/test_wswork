@@ -4,8 +4,7 @@
 
 <img src="https://i.imgur.com/I0VPyQy.png" height="400"><img src="https://i.imgur.com/W7Jvi9t.png" height="400"><img src="https://i.imgur.com/XNG0fQm.png" height="400"><img src="https://i.imgur.com/PCS6vBz.png" height="400">
 
-<p>
-- RecyclerView
+<p>- RecyclerView
 Foi utilizado esse framework devido a facilidade na exibição de grandes quantidades de dados, além de poupar recursos ao reexibir os as views quando faz a rolagem de tela para baixo.
 
 - Retrofit
