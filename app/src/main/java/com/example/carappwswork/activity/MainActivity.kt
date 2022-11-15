@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
     private var adapter = ListCarAdapter(this)
 
-    private val BASE_URL = getString(R.string.url_api)
+    private val BASE_URL = "https://wswork.com.br/"
 
     private val binding by lazy {
         ActivityMainBinding.inflate(layoutInflater)

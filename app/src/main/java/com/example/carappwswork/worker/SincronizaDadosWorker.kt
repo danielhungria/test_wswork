@@ -46,6 +46,7 @@ class SincronizaDadosWorker(
                 carUsuarioDao.atualiza(it.copy(sincronizadoAPI = true))
                 if (leadCarros.isNotEmpty()){
                     retrofitBuilder.salva(leadCarros)
+                    Log.i("SincronizaDadosWorker", "doWork: $leadCarros")
                 }
             }
             Log.i("SincronizaDadosWorker", "doWork: success")

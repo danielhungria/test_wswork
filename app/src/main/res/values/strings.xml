@@ -8,5 +8,4 @@
     <string name="marca_modelo">%1$s %2$s</string>
     <string name="escolha_seu_carro">Choose Your Car</string>
     <string name="falha">Falha</string>
-    <string name="url_api">https://wswork.com.br/</string>
 </resources>
