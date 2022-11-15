@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CarAppWSWork</string>
+    <string name="cadastrado_com_sucesso">Cadastrado com sucesso</string>
+    <string name="confirme_sua_compra_dialog">Confirme sua COMPRA</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="compra_confirma_dialog">Compra confirmada com SUCESSO</string>
+    <string name="cancel">Cancel</string>
+    <string name="marca_modelo">%1$s %2$s</string>
+    <string name="escolha_seu_carro">Choose Your Car</string>
+    <string name="falha">Falha</string>
+    <string name="url_api">https://wswork.com.br/</string>
+</resources>
